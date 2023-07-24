@@ -1,5 +1,7 @@
 # AccKit UI
 
+![AccKit UI Logo](acckit-ui-logo.png)
+
 AccKit UI is an open-source UI component library designed and developed by a college student. The library aims to provide a collection of modern and customizable user interface components that can be easily integrated into web applications and websites.
 
 ## Features
