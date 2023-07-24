@@ -29,7 +29,7 @@ We look forward to creating an outstanding UI component library together!
 
 ## License
 
-AccKit UI is released under the [MIT License](LICENSE.md). Feel free to use and modify the library by the terms of the license.
+AccKit UI is released under the [MIT License](LICENSE). Feel free to use and modify the library by the terms of the license.
 
 ---
 
